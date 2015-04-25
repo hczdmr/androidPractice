@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Handle1"
+            android:id="@+id/handle1"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Handle2"
+            android:id="@+id/handle2"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Handle3"
+            android:id="@+id/handle3"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Handle4"
+            android:id="@+id/handle4"/>
+    </LinearLayout>
+    <SlidingDrawer
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:content="@+id/content"
+            android:handle="@+id/handle"
+            android:id="@+id/slidingDrawer"
+            android:layout_gravity="center_horizontal">
+        <Button
+                android:id="@+id/handle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Handle"/>
+        <LinearLayout
+                android:id="@+id/content"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+            <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kilitle"
+                    android:id="@+id/cBSlidable"/>
+        </LinearLayout>
+    </SlidingDrawer>
+
+</FrameLayout>
