@@ -6,7 +6,7 @@ import android.os.Environment;
 import android.view.View;
 import android.widget.*;
 
-import java.io.File;
+import java.io.*;
 
 /**
  * Created by HaciOzdemir on 24/04/15.
@@ -18,6 +18,7 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
     Spinner spin;
     String[] paths = {"Musics", "Pictures", "Downloads"};
     File path = null;
+    File file = null;
     EditText saveFile;
     Button confirm,save;
     @Override
@@ -28,8 +29,18 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
         canRead = (TextView) findViewById(R.id.tvCanRead);
         confirm = (Button) findViewById(R.id.bConfirmSaveAs);
         save = (Button) findViewById(R.id.bSaveFile);
+        saveFile = (EditText) findViewById(R.id.etSaveAs);
         confirm.setOnClickListener(this);
         save.setOnClickListener(this);
+        checkState();
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, paths);
+        spin = (Spinner) findViewById(R.id.spinner);
+        spin.setAdapter(adapter);
+        spin.setOnItemSelectedListener(this);
+    }
+
+    private void checkState() {
         state = Environment.getExternalStorageState();
         if(state.equals(Environment.MEDIA_MOUNTED)){
             canWrite.setText("true");
@@ -45,10 +56,6 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
             canRead.setText("false");
             canW = canR = false;
         }
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, paths);
-        spin = (Spinner) findViewById(R.id.spinner);
-        spin.setAdapter(adapter);
-        spin.setOnItemSelectedListener(this);
     }
 
     @Override
@@ -80,6 +87,29 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
                 save.setVisibility(View.VISIBLE);
                 break;
             case R.id.bSaveFile:
+                String f = saveFile.getText().toString();
+                file = new File(path,f);
+                if((canR && canW) == true){
+
+                    path.mkdirs();
+
+                    try {
+                        InputStream is = getResources().openRawResource(R.raw.explosion);
+                        OutputStream os = new FileOutputStream(file);
+                        byte[] data = new byte[is.available()];
+                        is.read(data);
+                        os.write(data);
+                        is.close();
+                        os.close();
+
+                        Toast t = Toast.makeText(this,"File has been saved.",Toast.LENGTH_LONG);
+                        t.show();
+                    } catch (FileNotFoundException e) {
+                        e.printStackTrace();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                }
                 break;
         }
     }

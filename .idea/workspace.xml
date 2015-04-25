@@ -17,7 +17,37 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.hczdmr.Splash" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e39819d-71b0-46a4-aa99-9309c4af7939" name="Default" comment="" />
+    <list default="true" id="0e39819d-71b0-46a4-aa99-9309c4af7939" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/AnaEkran.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/AnaEkran.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Data.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Data.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Flipper.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Flipper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Hakkimizda.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Hakkimizda.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/InternalData$loadSomeStuff.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/InternalData$loadSomeStuff.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/InternalData.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/InternalData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Kamera.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Kamera.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Menu.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/OpenedClass.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/OpenedClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$id.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$layout.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$menu.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$raw.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$string.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$xml.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/SharedPrefs.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/SharedPrefs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/SimpleBrowser.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/SimpleBrowser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Slider.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Slider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Splash.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Splash.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Tabs.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/Tabs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/TextPlay.class" afterPath="$PROJECT_DIR$/out/production/splash/com/hczdmr/Splash/TextPlay.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/splash.apk" afterPath="$PROJECT_DIR$/out/production/splash/splash.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/splash/splash.unaligned.apk" afterPath="$PROJECT_DIR$/out/production/splash/splash.unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java" afterPath="$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java" afterPath="$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Splash.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,11 +74,11 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1819" max-vertical-offset="2430">
-              <caret line="151" column="62" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2445">
+              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
               <folding>
-                <element signature="e#590#608#0" expanded="true" />
-                <element signature="e#720#738#0" expanded="true" />
+                <element signature="e#687#705#0" expanded="true" />
+                <element signature="e#817#835#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,11 +87,11 @@
       <file leaf-file-name="ExternalData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80614203" vertical-offset="765" max-vertical-offset="1380">
-              <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+            <state vertical-scroll-proportion="-1.7639155" vertical-offset="1129" max-vertical-offset="1830">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1663#1671#0" expanded="true" />
+                <element signature="e#1217#1225#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +100,7 @@
       <file leaf-file-name="externaldata.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/externaldata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.6363635" vertical-offset="165" max-vertical-offset="690">
+            <state vertical-scroll-proportion="-6.5636363" vertical-offset="224" max-vertical-offset="690">
               <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
               <folding />
             </state>
@@ -81,6 +111,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,11 +156,11 @@
         <option value="$PROJECT_DIR$/res/layout/flipper.xml" />
         <option value="$PROJECT_DIR$/res/layout/sharedpreferences.xml" />
         <option value="$PROJECT_DIR$/src/com/hczdmr/Splash/SharedPrefs.java" />
-        <option value="$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java" />
         <option value="$PROJECT_DIR$/src/com/hczdmr/Splash/InternalData.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/externaldata.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java" />
+        <option value="$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java" />
       </list>
     </option>
   </component>
@@ -135,7 +168,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -271,7 +304,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -279,11 +312,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="FullScreen" value="true" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="YT9108XPXM" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="emu_api19" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="InputMethodM&#9;PSI&#9;JAVA://android.view.inputmethod.InputMethodManager&#10;Sliding&#9;PSI&#9;JAVA://android.widget.SlidingDrawer&#10;Soun&#9;FILE&#9;file:///Users/HaciOzdemir/Documents/adt-bundle-mac-x86_64-20140702/sdk/sources/android-19/android/media/SoundPool.java&#10;So&#9;FILE&#9;file:///Users/HaciOzdemir/Documents/adt-bundle-mac-x86_64-20140702/sdk/sources/android-19/android/media/SoundPool.java" />
+    <property name="SearchEverywhereHistoryKey" value="Fil&#9;PSI&#9;JAVA://java.io.File&#10;mkdirs()&#9;null&#9;null&#10;InputMethodM&#9;PSI&#9;JAVA://android.view.inputmethod.InputMethodManager&#10;Sliding&#9;PSI&#9;JAVA://android.widget.SlidingDrawer&#10;Soun&#9;FILE&#9;file:///Users/HaciOzdemir/Documents/adt-bundle-mac-x86_64-20140702/sdk/sources/android-19/android/media/SoundPool.java&#10;So&#9;FILE&#9;file:///Users/HaciOzdemir/Documents/adt-bundle-mac-x86_64-20140702/sdk/sources/android-19/android/media/SoundPool.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -554,17 +587,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/get.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="525">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/AnaEkran.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
@@ -588,8 +610,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="525">
           <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
           <folding>
-            <element signature="e#590#608#0" expanded="true" />
-            <element signature="e#720#738#0" expanded="true" />
+            <element signature="e#687#705#0" expanded="true" />
+            <element signature="e#817#835#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1004,16 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31669867" vertical-offset="60" max-vertical-offset="1080">
-          <caret line="15" column="186" selection-start-line="15" selection-start-column="186" selection-end-line="15" selection-end-column="186" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/InternalData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5278311" vertical-offset="1420" max-vertical-offset="2595">
@@ -1024,20 +1036,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1819" max-vertical-offset="2430">
-          <caret line="151" column="62" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
-          <folding>
-            <element signature="e#590#608#0" expanded="true" />
-            <element signature="e#720#738#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/externaldata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6363635" vertical-offset="165" max-vertical-offset="690">
+        <state vertical-scroll-proportion="-6.5636363" vertical-offset="224" max-vertical-offset="690">
           <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding />
         </state>
@@ -1046,13 +1047,42 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java">
+    <entry file="file://$USER_HOME$/Documents/adt-bundle-mac-x86_64-20140702/sdk/sources/android-19/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80614203" vertical-offset="765" max-vertical-offset="1380">
-          <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.21052632" vertical-offset="12226" max-vertical-offset="16710">
+          <caret line="889" column="64" selection-start-line="889" selection-start-column="56" selection-end-line="889" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2303263" vertical-offset="105" max-vertical-offset="1080">
+          <caret line="15" column="202" selection-start-line="15" selection-start-column="202" selection-end-line="15" selection-end-column="202" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1663#1671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2445">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="e#687#705#0" expanded="true" />
+            <element signature="e#817#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hczdmr/Splash/ExternalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7639155" vertical-offset="1129" max-vertical-offset="1830">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1217#1225#0" expanded="true" />
           </folding>
         </state>
       </provider>

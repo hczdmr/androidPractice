@@ -13,7 +13,7 @@ import java.util.concurrent.ExecutionException;
  * Created by HaciOzdemir on 20/03/15.
  */
 public class Menu extends ListActivity{
-    String siniflar[] = { "AnaEkran", "TextPlay", "Email", "Kamera", "Data", "GFX", "GFXSurface", "SoundStuff", "Slider", "Tabs", "SimpleBrowser", "Flipper", "SharedPrefs", "InternalData"};
+    String siniflar[] = { "AnaEkran", "TextPlay", "Email", "Kamera", "Data", "GFX", "GFXSurface", "SoundStuff", "Slider", "Tabs", "SimpleBrowser", "Flipper", "SharedPrefs", "InternalData", "ExternalData"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
