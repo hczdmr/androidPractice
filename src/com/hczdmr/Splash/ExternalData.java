@@ -1,6 +1,8 @@
 package com.hczdmr.Splash;
 
 import android.app.Activity;
+import android.media.MediaScannerConnection;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.view.View;
@@ -88,7 +90,7 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
                 break;
             case R.id.bSaveFile:
                 String f = saveFile.getText().toString();
-                file = new File(path,f);
+                file = new File(path,f + ".mp3");
                 if((canR && canW) == true){
 
                     path.mkdirs();
@@ -104,6 +106,20 @@ public class ExternalData extends Activity implements AdapterView.OnItemSelected
 
                         Toast t = Toast.makeText(this,"File has been saved.",Toast.LENGTH_LONG);
                         t.show();
+
+                        //Update files for the user to use
+                        // yeni olusturulmus veya download edilmis dosyayi tarar.
+                        MediaScannerConnection.scanFile(this,
+                                new String[]{file.toString()},
+                                null,
+                                new MediaScannerConnection.OnScanCompletedListener() {
+                            @Override
+                            public void onScanCompleted(String path, Uri uri) {
+                              // Ayni anda ikinci toast calismaz.!!!!!!
+                              // Toast t = Toast.makeText(ExternalData.this, "scan completed", Toast.LENGTH_SHORT);
+                              //  t.show();
+                            }
+                        });
                     } catch (FileNotFoundException e) {
                         e.printStackTrace();
                     } catch (IOException e) {
