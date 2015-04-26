@@ -154,5 +154,19 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+        <activity android:name=".SQLiteExample"
+                  android:label="SQLiteExample Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.SQLITEEXAMPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".SQLView"
+                  android:label="SQLView Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.SQLVIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
     </application>
 </manifest>
